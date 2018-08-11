@@ -1,1 +1,7 @@
-test
+This application runs strictly in your terminal.
+
+To get started using this app first install all the descrepancies needed by running npm install in your terminal
+
+This app allows you to search movies and also songs via two seperate npm packages. 
+
+There is also a third npm package that allows you to see my latest tweets from twitter.
